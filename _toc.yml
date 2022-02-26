@@ -4,5 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
+- file: the_first_example
+- file: tensorflow_arithmetic
+- file: keras_model
+- file: tensorflow_datasets
+- file: training
+
